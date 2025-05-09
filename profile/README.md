@@ -56,10 +56,10 @@ AI 기반 시장 인사이트 생성부터 전략 실행까지, 전 과정을 �
 
 ---
 
-## 🤝 기여 방법
+## 📎 인용 및 출처
 
-FinAgent-Lab은 열려 있는 프로젝트입니다.  
-이 프로젝트에 관심이 있다면, 자유롭게 Issue를 생성하거나 Pull Request를 제출해주세요!
+본 프로젝트의 코드를 활용하실 경우,  
+[FinAgent-Lab GitHub 링크](https://github.com/FinAgent-Lab)를 출처로 명시해 주세요.
 
 ---
 
