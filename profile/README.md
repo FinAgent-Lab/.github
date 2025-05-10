@@ -1,4 +1,4 @@
-# Automated Trading Agent System
+# 💹 Automated Trading Agent System
 
 **AI 기반 트레이딩 전략 자동화 플랫폼**
 
