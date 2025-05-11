@@ -61,13 +61,6 @@ AI 기반 시장 인사이트 생성부터 전략 실행까지, 전 과정을 �
 
 ---
 
-## 📎 인용 및 출처
-
-본 프로젝트의 코드를 활용하실 경우,  
-[FinAgent-Lab GitHub 링크](https://github.com/FinAgent-Lab)를 출처로 명시해 주세요.
-
----
-
 ## 📜 라이선스
 
 This project is licensed under the [MIT License](LICENSE).
