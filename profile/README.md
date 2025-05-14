@@ -2,8 +2,7 @@
 
 **AI 기반 트레이딩 전략 자동화 플랫폼**
 
-![FinAgent Banner](https://github.com/user-attachments/assets/f9ab1fec-2f29-421d-9575-1221a6d9810b)
-
+![FinAgent Banner](https://github.com/user-attachments/assets/1f9de94e-78a7-4f91-a1a9-9d20c36dc2bd)
 
 FinAgent-Lab은 AI 기술을 활용하여 금융 시장을 분석하고, 자동화된 트레이딩 전략을 수립 및 실행하는 것을 목표로 하는 프로젝트입니다.  
 AI 기반 시장 인사이트 생성부터 전략 실행까지, 전 과정을 하나의 에이전트 네트워크로 연결합니다.
